@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
-<img src="https://github.com/user-attachments/assets/1f580610-9c08-4542-a61c-874a4397169f"
+<img align="right" src="https://github.com/user-attachments/assets/1f580610-9c08-4542-a61c-874a4397169f"
 />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj2025&label=Profile%20views&color=0e75b6&style=flat" alt="suraj2025" /> </p>
 
